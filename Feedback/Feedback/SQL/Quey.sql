@@ -1,0 +1,1 @@
+select IDENT_CURRENT('IncompletedFeedback') IdentityInTable
