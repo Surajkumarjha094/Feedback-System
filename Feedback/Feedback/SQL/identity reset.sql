@@ -1,1 +1,0 @@
-DBCC checkident ('FeedbackStatus',RESEED,0);
